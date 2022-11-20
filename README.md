@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinWaikabu
 - 👀 I’m interested in Data Science and Web Development.
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, ML and FAST API.
 
 <!---
 DinWaikabu/DinWaikabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
